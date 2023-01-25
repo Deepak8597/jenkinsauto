@@ -1,1 +1,3 @@
 # jenkinsauto
+
+Jenkins for pratice
